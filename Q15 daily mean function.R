@@ -9,3 +9,5 @@ an_daily_mean <- function(x,y){
 }
 
 an_daily_mean(daily.site, "Merced")
+
+#Again, put in some comments so we can understand the rationale behind your code
