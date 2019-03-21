@@ -8,3 +8,5 @@ stats <- function(x) {
   
 }
 stats(daily.site)
+
+#Add comments so others can tell what does what
